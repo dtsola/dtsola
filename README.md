@@ -7,7 +7,7 @@
 # 你好，我是 dtsola 👋
 
 [![个人网站](https://img.shields.io/badge/网站-dtsola.com-blue?logo=world)](https://www.dtsola.com/)
-[![小遥AI社区](https://img.shields.io/badge/小遥AI-project.xiaoyaosai.com-purple?logo=artificial-intelligence)](https://project.xiaoyaosai.com/)
+[![小遥AI社区](https://img.shields.io/badge/小遥AI社区-project.xiaoyaosai.com-purple?logo=artificial-intelligence)](https://project.xiaoyaosai.com/)
 [![B站](https://img.shields.io/badge/B站-736015-pink?logo=bilibili)](https://space.bilibili.com/736015)
 [![小红书](https://img.shields.io/badge/小红书-个人主页-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/5b4c0597e8ac2b06aa13346d)
 
