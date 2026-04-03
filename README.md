@@ -28,11 +28,22 @@
 
 ## 🛠 技术栈
 
+### 全栈开发
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+
+### 桌面应用 & AI
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?logo=openai&logoColor=white)
-![桌面应用](https://img.shields.io/badge/桌面应用-007ACC?logo=visualstudiocode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?logo=anthropic&logoColor=white)
+
+### 后端 & DevOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## 🚀 开源项目
 
