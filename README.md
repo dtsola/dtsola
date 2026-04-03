@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **dtsola/dtsola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 个人介绍
-<img src="https://cdn.nlark.com/yuque/0/2026/jpeg/12446143/1775199945698-80d21e49-6245-49a8-9dc6-4c913b852f73.jpeg" width="128" title="" crop="0,0,1,1" id="u1764196d" class="ne-image">
+<img src="https://cdn.nlark.com/yuque/0/2026/jpeg/12446143/1775199945698-80d21e49-6245-49a8-9dc6-4c913b852f73.jpeg" width="128" alt="dtsola头像">
 
 ## 基本信息
 + **姓名**：dtsola
@@ -25,7 +23,6 @@ Here are some ideas to get you started:
 
 ## 个人理念
 > **用架构思维做商业，用商业思维做技术**
->
 
 ## 当前事业
 ### 一人公司实践
@@ -42,7 +39,7 @@ Here are some ideas to get you started:
 
 ### 🌟 小遥搜索
 + **GitHub**：[https://github.com/dtsola/xiaoyaosearch](https://github.com/dtsola/xiaoyaosearch)
-+ **成就**：获得 **1000+ ****⭐**
++ **成就**：获得 **1000+** ⭐
 + **定位**：多模态AI智能搜索的本地桌面应用
 
 支持语音、文本、图像输入，为知识工作者、内容创作者和技术开发者提供智能文件检索能力。
@@ -68,15 +65,15 @@ Here are some ideas to get you started:
 ## 自媒体平台
 + **B站**：[https://space.bilibili.com/736015](https://space.bilibili.com/736015)
 + **小红书**：[https://www.xiaohongshu.com/user/profile/5b4c0597e8ac2b06aa13346d](https://www.xiaohongshu.com/user/profile/5b4c0597e8ac2b06aa13346d)
-+ **公众号**：<img src="https://cdn.nlark.com/yuque/0/2026/png/12446143/1775200084334-343ef084-5e53-4dda-9713-6f26a3d2f289.png" width="352.66668701171875" title="" crop="0,0,1,1" id="u827d178f" class="ne-image">
++ **公众号**：<img src="https://cdn.nlark.com/yuque/0/2026/png/12446143/1775200084334-343ef084-5e53-4dda-9713-6f26a3d2f289.png" width="352" alt="公众号二维码">
 
 ## 联系方式
-+ **微信：dtsola **<img src="https://cdn.nlark.com/yuque/0/2026/png/12446143/1775200127338-45f20395-db45-46fc-b775-c6bc3c596211.png" width="122" title="" crop="0,0,1,1" id="udfdc7edc" class="ne-image">** **
-    - **请备注你的来意，**
-        * **欢迎 技术经验交流、创业经验交流、商务合作、IT咨询**
-        * **不欢迎 **
-            + **需求想都不想清楚的（想让我给你搞明白，你至少得有个文档吧，不然分析啥？）**
-            + **想低价开发应用（几十、几百 可能吗？你还不如去抢）**
-            + **白嫖党（不肯付费的，别来浪费时间）**
++ **微信：dtsola** <img src="https://cdn.nlark.com/yuque/0/2026/png/12446143/1775200127338-45f20395-db45-46fc-b775-c6bc3c596211.png" width="122" alt="微信二维码">
+    - **请备注你的来意**
+        - **欢迎**：技术经验交流、创业经验交流、商务合作、IT咨询
+        - **不欢迎**：
+            - 需求想都不想清楚的（想让我给你搞明白，你至少得有个文档吧，不然分析啥？）
+            - 想低价开发应用（几十、几百 可能吗？你还还不如去抢）
+            - 白嫖党（不肯付费的，别来浪费时间）
 + **个人站点**：[https://www.dtsola.com/](https://www.dtsola.com/)
 + **小遥AI官网**：[https://project.xiaoyaosai.com/](https://project.xiaoyaosai.com/)
