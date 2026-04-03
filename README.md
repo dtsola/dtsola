@@ -4,65 +4,67 @@
 
 <img src="https://cdn.nlark.com/yuque/0/2026/jpeg/12446143/1775199945698-80d21e49-6245-49a8-9dc6-4c913b852f73.jpeg" width="120" alt="dtsola" style="border-radius: 50%;">
 
-# Hi, I'm dtsola 👋
+# 你好，我是 dtsola 👋
 
-[![Website](https://img.shields.io/badge/网站-dtsola.com-blue?logo=world)](https://www.dtsola.com/)
+[![个人网站](https://img.shields.io/badge/网站-dtsola.com-blue?logo=world)](https://www.dtsola.com/)
 [![小遥AI](https://img.shields.io/badge/小遥AI-project.xiaoyaosai.com-purple?logo=artificial-intelligence)](https://project.xiaoyaosai.com/)
-[![Bilibili](https://img.shields.io/badge/B站-736015-pink?logo=bilibili)](https://space.bilibili.com/736015)
-[![小红书](https://img.shields.io/badge/小红书-5b4c0597e8ac2b06aa13346d-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/5b4c0597e8ac2b06aa13346d)
+[![B站](https://img.shields.io/badge/B站-736015-pink?logo=bilibili)](https://space.bilibili.com/736015)
+[![小红书](https://img.shields.io/badge/小红书-个人主页-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/5b4c0597e8ac2b06aa13346d)
 
-## 🌟 About Me / 关于我
+## 🌟 关于我
 
-**IT Solution Architect | Indie Hacker | 10+ Years Experience**
+**IT解决方案架构师 | 一人公司实践者 | 10+年开发经验**
 
 > 💡 **用架构思维做商业，用商业思维做技术**
 
-Currently running a **one-person company**, focused on:
-- IT consulting for solopreneurs & SMEs
-- Professional software development services
-- Building AI-powered products for knowledge workers
+目前正在经营**一人公司**，专注于：
+- 为一人公司、高端个人客户、中小企业提供IT咨询服务
+- 提供专业软件开发服务
+- 打造面向知识工作者的AI产品
 
-## 🛠 Tech Stack / 技术栈
+## 🛠 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?logo=openai&logoColor=white)
-![Desktop Apps](https://img.shields.io/badge/Desktop_Apps-007ACC?logo=visualstudiocode&logoColor=white)
+![桌面应用](https://img.shields.io/badge/桌面应用-007ACC?logo=visualstudiocode&logoColor=white)
 
-## 🚀 Open Source Projects / 开源项目
+## 🚀 开源项目
+
+致力于用AI技术解决实际问题，目前已有多款开源应用：
 
 ### [🌟 小遥搜索](https://github.com/dtsola/xiaoyaosearch)
 [![Stars](https://img.shields.io/github/stars/dtsola/xiaoyaosearch?style=social)](https://github.com/dtsola/xiaoyaosearch)
 [![License](https://img.shields.io/github/license/dtsola/xiaoyaosearch)](https://github.com/dtsola/xiaoyaosearch)
 
-**多模态AI智能搜索本地桌面应用** - 支持语音、文本、图像输入的智能文件检索工具
+**多模态AI智能搜索本地桌面应用** - 支持语音、文本、图像输入，为知识工作者、内容创作者和技术开发者提供智能文件检索能力
 
 ### [💰 小遥账单](https://github.com/dtsola/xiaoyaoprivatebill)
 [![Stars](https://img.shields.io/github/stars/dtsola/xiaoyaoprivatebill?style=social)](https://github.com/dtsola/xiaoyaoprivatebill)
 
-**支付宝微信账单一键智能分析** - 看清每一分钱的去向
+**支付宝微信账单一键智能分析** - 看清每一分钱的去向，每月省下不该花的钱
 
 ### [🤖 小遥配配](https://github.com/dtsola/xiaoyaopeipei)
 [![Stars](https://img.shields.io/github/stars/dtsola/xiaoyaopeipei?style=social)](https://github.com/dtsola/xiaoyaopeipei)
 
-**AI对话式电脑导购** - 24小时在线智能配置推荐
+**AI对话式电脑导购** - 24小时在线，帮你智能接单、推荐合适配置
 
 ### [📄 飞书导出工具](https://github.com/dtsola/xiaoyaosearch-feishu-export-md)
 [![Stars](https://img.shields.io/github/stars/dtsola/xiaoyaosearch-feishu-export-md?style=social)](https://github.com/dtsola/xiaoyaosearch-feishu-export-md)
 
-**飞书文档一键导出Markdown**
+**飞书文档一键导出Markdown** - 方便快捷地将飞书文档转换为Markdown格式
 
 ---
 
-## 📮 Contact / 联系方式
+## 📮 联系方式
 
 <table>
 <tr>
 <td valign="middle">
 
 **微信：dtsola**
-- ✅ 技术交流 / 创业交流 / 商务合作 / IT咨询
+- ✅ 技术经验交流、创业经验交流、商务合作、IT咨询
 - 💼 接受有合理预算的商业项目
 
 <a href="https://www.dtsola.com/">
@@ -86,8 +88,6 @@ Currently running a **one-person company**, focused on:
 
 **🌟 如果我的项目对你有帮助，请给个 Star 支持一下！**
 
-**If my projects help you, please give them a ⭐**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dtsola.dtsola)
+![访问量](https://visitor-badge.laobi.icu/badge?page_id=dtsola.dtsola)
 
 </div>
