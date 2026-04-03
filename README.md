@@ -26,30 +26,6 @@
 
 致力于将 **开发者 / 用户 / 创业者** 衔接起来，共建共赢的AI生态。
 
-## 🛠 技术栈
-
-**全栈开发 | AI赋能 | 跨平台交付**
-
-### 核心技能
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
-![SpringCloud](https://img.shields.io/badge/SpringCloud-6DB33F?logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### 前端 & 跨端
-![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
-
-### AI & 工具链
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?logo=anthropic&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?logo=openai&logoColor=white)
-
----
-
-**💪 擅长领域：** 前端 / 后端 / 移动端 / 桌面端 / 小程序 / AI / 大数据
-
 ## 🚀 开源项目
 
 致力于用AI技术解决实际问题，目前已有多款开源应用：
