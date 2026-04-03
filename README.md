@@ -22,6 +22,10 @@
 - 提供专业软件开发服务
 - 打造面向知识工作者的AI产品
 
+### 🤝 小遥AI社区建设
+
+致力于将 **开发者 / 用户 / 创业者** 衔接起来，共建共赢的AI生态。
+
 ## 🛠 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
