@@ -7,7 +7,7 @@
 # 你好，我是 dtsola 👋
 
 [![个人网站](https://img.shields.io/badge/网站-dtsola.com-blue?logo=world)](https://www.dtsola.com/)
-[![小遥AI](https://img.shields.io/badge/小遥AI-project.xiaoyaosai.com-purple?logo=artificial-intelligence)](https://project.xiaoyaosai.com/)
+[![小遥AI社区](https://img.shields.io/badge/小遥AI-project.xiaoyaosai.com-purple?logo=artificial-intelligence)](https://project.xiaoyaosai.com/)
 [![B站](https://img.shields.io/badge/B站-736015-pink?logo=bilibili)](https://space.bilibili.com/736015)
 [![小红书](https://img.shields.io/badge/小红书-个人主页-red?logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/5b4c0597e8ac2b06aa13346d)
 
@@ -28,22 +28,27 @@
 
 ## 🛠 技术栈
 
-### 全栈开发
+**全栈开发 | AI赋能 | 跨平台交付**
+
+### 核心技能
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
+![SpringCloud](https://img.shields.io/badge/SpringCloud-6DB33F?logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### 前端 & 跨端
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-
-### 桌面应用 & AI
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?logo=anthropic&logoColor=white)
 
-### 后端 & DevOps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+### AI & 工具链
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?logo=anthropic&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?logo=openai&logoColor=white)
+
+---
+
+**💪 擅长领域：** 前端 / 后端 / 移动端 / 桌面端 / 小程序 / AI / 大数据
 
 ## 🚀 开源项目
 
