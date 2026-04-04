@@ -55,9 +55,8 @@
 
 ## 📮 联系方式
 
-<table>
-<tr>
-<td valign="middle">
+<table><tr>
+<td width="50%" valign="middle">
 
 **微信：dtsola**
 
@@ -77,7 +76,7 @@
 </a>
 
 </td>
-<td valign="middle">
+<td width="50%" valign="middle">
 
 **公众号**
 <br>
