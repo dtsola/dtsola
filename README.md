@@ -80,7 +80,7 @@
 
 **公众号**
 <br>
-<img src="https://cdn.nlark.com/yuque/0/2026/png/12446143/1775200084334-343ef084-5e53-4dda-9713-6f26a3d2f289.png" width="150" alt="公众号二维码">
+<img src="https://cdn.nlark.com/yuque/0/2026/png/12446143/1775200084334-343ef084-5e53-4dda-9713-6f26a3d2f289.png" width="350" alt="公众号二维码">
 
 </td>
 </tr>
