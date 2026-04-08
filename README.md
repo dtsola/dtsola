@@ -32,7 +32,6 @@
 
 ### [🌟 小遥搜索](https://github.com/dtsola/xiaoyaosearch)
 [![Stars](https://img.shields.io/github/stars/dtsola/xiaoyaosearch?style=social)](https://github.com/dtsola/xiaoyaosearch)
-[![License](https://img.shields.io/github/license/dtsola/xiaoyaosearch)](https://github.com/dtsola/xiaoyaosearch)
 
 **多模态AI智能搜索本地桌面应用** - 支持语音、文本、图像输入，为知识工作者、内容创作者和技术开发者提供智能文件检索能力
 
@@ -50,6 +49,11 @@
 [![Stars](https://img.shields.io/github/stars/dtsola/xiaoyaosearch-feishu-export-md?style=social)](https://github.com/dtsola/xiaoyaosearch-feishu-export-md)
 
 **飞书文档一键导出Markdown** - 方便快捷地将飞书文档转换为Markdown格式
+
+### [📄 钉钉导出工具](https://github.com/dtsola/xiaoyaosearch-dingding-export-md)
+[![Stars](https://img.shields.io/github/stars/dtsola/xiaoyaosearch-dingding-export-md?style=social)](https://github.com/dtsola/xiaoyaosearch-dingding-export-md)
+
+**小遥搜索钉钉导出工具** - 导出钉钉文档，实现本地 AI 搜索。
 
 ---
 
